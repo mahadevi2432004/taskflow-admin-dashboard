@@ -17,11 +17,8 @@ A modern Admin Dashboard built using React + Vite with advanced Todo features.
 - CSS3
 - React Icons
 
-## 📸 Project Screenshot
-(Add screenshot below)
-
 ## 🚀 Live Demo
-(Add Vercel link here)
+https://taskflow-admin-dashboard.vercel.app/
 
 ## 👩‍💻 Author
 Mahadevi  
