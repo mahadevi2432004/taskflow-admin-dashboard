@@ -1,39 +1,58 @@
-# 🚀 TaskFlow Admin Dashboard
+<h1 align="center">🚀 TaskFlow Admin Dashboard</h1>
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)
-![Status](https://img.shields.io/badge/Status-Live-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Responsive](https://img.shields.io/badge/Design-Responsive-orange)
+<p align="center">
+  A Modern, Responsive Admin Dashboard built with React + Vite
+</p>
 
-A modern and responsive Admin Dashboard built using **React + Vite** with advanced Todo management features.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Live-success"/>
+  <img src="https://img.shields.io/badge/Design-Responsive-orange"/>
+  <img src="https://img.shields.io/badge/Made%20With-Love-red"/>
+</p>
 
 ---
 
 ## 🌐 Live Demo
-👉 https://your-vercel-link.vercel.app
+
+<p align="center">
+  <a href="https://taskflow-admin-dashboard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Project-brightgreen?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="public/images/Dashboard" width="90%"/>
+</p>
 
 ---
 
 ## ✨ Features
 
-- ✅ Add / Edit / Delete Tasks  
+- ✅ Add, Edit & Delete Tasks  
 - 📅 Due Date Selection  
 - 🔖 Priority Tags (Low / Medium / High)  
-- 🎉 Confetti Animation on Completion  
+- 🎉 Confetti Animation on Task Completion  
 - 📊 Admin Dashboard Layout  
-- 📱 Fully Responsive Grid Design  
+- 📱 Fully Responsive Grid System  
 - 🌈 Smooth UI Animations  
 
 ---
 
 ## 🛠 Tech Stack
 
-- ⚛ React.js  
-- ⚡ Vite  
-- 🎨 CSS3  
-- 🎉 Canvas Confetti  
-- 🔗 React Icons  
+| Technology | Usage |
+|------------|--------|
+| ⚛ React | UI Development |
+| ⚡ Vite | Fast Build Tool |
+| 🎨 CSS3 | Styling |
+| 🎉 Canvas Confetti | Celebration Effect |
+| 🔗 React Icons | Icon System |
 
 ---
 
