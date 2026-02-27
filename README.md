@@ -24,10 +24,21 @@
 
 ---
 
-## 📸 Project Preview
+## 📸 Project Gallery
 
 <p align="center">
-  <img src="public/images/Dashboard" width="90%"/>
+  <img src="public/Dashboard.png" width="45%"/>
+  <img src="public/Search Admin.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="public/Edit & Save.png" width="45%"/>
+  <img src="public/Dark mode.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="public/Light mode.png
+  " width="60%"/>
 </p>
 
 ---
